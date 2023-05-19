@@ -1,5 +1,5 @@
 # IKT301-Applied-Algoirthms
-This class contains 6 large project, which was conducted in a group of 4. We where the only group to score highest in our class. The project 1 folder contains 4 problems, the first project, didn't require a report, but was rather presented and graded orally:
+This class contains 6 large project, which was conducted in a group of 4. We where the only group to score highest in our class. Bellow is a general overview of what each project topic was about, and their respeictive problem titles.
 
 **Project 1: Backtracking and Heuristics**
 - Problem 1: Solving Sudoku Puzzles: Backtracking and Deductive Strategies
